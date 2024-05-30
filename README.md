@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/Isaac-tech-dev/Bress-Mobile-App.git]
+    git clone https://github.com/Isaac-tech-dev/Bress-Mobile-App.git
     ```
 
 2. **Navigate to the project directory:**
@@ -64,4 +64,3 @@ Before you begin, ensure you have met the following requirements:
 
     You can open the app on an emulator, simulator, or physical device using the Expo Go app. Scan the QR code provided in the terminal or on the Expo Dev Tools webpage.
 
-## Building the App
